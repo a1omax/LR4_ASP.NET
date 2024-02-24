@@ -1,0 +1,24 @@
+{
+  "library": {
+    "books": [
+      {
+        "title": "I wish I knew how to use Ukrainian language in C#",
+        "author":  "Max"
+      },
+      {
+        "title": "I love Java ",
+        "author": "author2"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Someone",
+        "surname": "Clever"
+      },
+      {
+        "name": "Made",
+        "surname": "This"
+      }
+    ]
+  }
+}
